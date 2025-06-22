@@ -1,0 +1,8 @@
+{
+  "registries": [
+    {
+      "name": "reactbits",
+      "url": "https://github.com/DavidHDev/react-bits"
+    }
+  ]
+}
